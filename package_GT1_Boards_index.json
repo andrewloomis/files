@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://andrewloomis.github.io/files/GT-1_Boards-1.zip",
           "archiveFileName": "GT-1_Boards-1.zip",
-          "checksum": "SHA-256:f0c3caece4dd4aa56d2fb5a8736321103ab5bd2f771ffd68b5928f55cdc97128",
-          "size": "483217",
+          "checksum": "SHA-256:0352136a59b4b567cc76e50b330c7e7be82455618c2b164ad382c59cfc07c86e",
+          "size": "483267",
           "boards": [
             {"name": "ATmegaModule"}
           ],
